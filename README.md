@@ -5,3 +5,5 @@ o site foi desenvolvido na trilha "Start na Programação" pela [OneBitCode](htt
 - [HTML](https://github.com/claysfx/site_petlife/blob/main/index.html): estrutura base do site.
 - [CSS](https://github.com/claysfx/site_petlife/blob/main/style.css): dar design e "vida" ao site.
 - [Javascript](https://github.com/claysfx/site_petlife/blob/main/script.js): dinamicidade e movimento nas caixas de perguntas do site.
+
+veja o site [aqui!](https://claysfx.github.io/site_petlife/)
